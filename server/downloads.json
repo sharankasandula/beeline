@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e11860a9-0693-45b9-a586-c90ef155211a",
+    "link": "https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_700KB.mp3",
+    "scheduleTime": null,
+    "status": "downloading",
+    "progress": 0,
+    "filePath": "/mnt/p/beeline/server/Downloads/file_example_MP3_700KB.mp3",
+    "totalBytes": 0,
+    "downloadedBytes": 0
+  }
+]
